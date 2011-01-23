@@ -1,1 +1,1 @@
-A collection of perl- and bash-scripts for automated tasks. 
+A collection of perl-, ruby  and bash-scripts.
